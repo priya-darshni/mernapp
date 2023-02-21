@@ -1,0 +1,59 @@
+[
+    {
+        "CategoryName": "saree",
+        "type": "kancheepuram silk",
+        "img": "https://kalyansilks.com/media/wysiwyg/collection.jpg",
+        "price": "10000",
+        "description": "The Kanchipuram silk sari is a type of silk sari made in the Kanchipuram region in Tamil Nadu, India"
+    },
+    {
+        "CategoryName": "saree",
+        "type": "Kalamkari silk",
+        "img": "https://cdn.shopify.com/s/files/1/0998/9358/products/WhatsAppImage2022-03-19at3.17.24PM_1024x1024.jpg?v=1647691354",
+        "price": "5000",
+        "description": "The kalamkari silk sari is a type of silk sari made in the Kanchipuram region in Tamil Nadu, India"
+    },
+    {
+        "CategoryName": "saree",
+        "type": "cotton",
+        "img": "https://cdn.shopify.com/s/files/1/0998/9358/products/WhatsAppImage2022-03-19at3.17.24PM_1024x1024.jpg?v=1647691354",
+        "price": "500",
+        "description": "The kalamkari silk sari is a type of silk sari made in the Kanchipuram region in Tamil Nadu, India"
+    },{
+        "CategoryName": "saree",
+        "type": "jute",
+        "img": "https://cdn.shopify.com/s/files/1/0998/9358/products/WhatsAppImage2022-03-19at3.17.24PM_1024x1024.jpg?v=1647691354",
+        "price": "5000",
+        "description": "The kalamkari silk sari is a type of silk sari made in the Kanchipuram region in Tamil Nadu, India"
+    },{
+        "CategoryName": "saree",
+        "type": "ikkat",
+        "img": "https://cdn.shopify.com/s/files/1/0998/9358/products/WhatsAppImage2022-03-19at3.17.24PM_1024x1024.jpg?v=1647691354",
+        "price": "5000",
+        "description": "The kalamkari silk sari is a type of silk sari made in the Kanchipuram region in Tamil Nadu, India"
+    },{
+        "CategoryName": "kurti",
+        "type": "patiyala",
+        "img": "https://cdn.shopify.com/s/files/1/0998/9358/products/WhatsAppImage2022-03-19at3.17.24PM_1024x1024.jpg?v=1647691354",
+        "price": "5000",
+        "description": "The kalamkari silk sari is a type of silk sari made in the Kanchipuram region in Tamil Nadu, India"
+    },{
+        "CategoryName": "kurti",
+        "type": "silk",
+        "img": "https://cdn.shopify.com/s/files/1/0998/9358/products/WhatsAppImage2022-03-19at3.17.24PM_1024x1024.jpg?v=1647691354",
+        "price": "5000",
+        "description": "The kalamkari silk sari is a type of silk sari made in the Kanchipuram region in Tamil Nadu, India"
+    },{
+        "CategoryName": "kurti",
+        "type": "cotton",
+        "img": "https://cdn.shopify.com/s/files/1/0998/9358/products/WhatsAppImage2022-03-19at3.17.24PM_1024x1024.jpg?v=1647691354",
+        "price": "5000",
+        "description": "The kalamkari silk sari is a type of silk sari made in the Kanchipuram region in Tamil Nadu, India"
+    },{
+        "CategoryName": "saree",
+        "type": "polyester",
+        "img": "https://cdn.shopify.com/s/files/1/0998/9358/products/WhatsAppImage2022-03-19at3.17.24PM_1024x1024.jpg?v=1647691354",
+        "price": "5000",
+        "description": "The kalamkari silk sari is a type of silk sari made in the Kanchipuram region in Tamil Nadu, India"
+    }
+]

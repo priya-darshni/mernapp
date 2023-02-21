@@ -1,0 +1,10 @@
+body{
+font-family: 'Inconsolata', monospace;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', cursive;
+font-family: 'Saira Condensed', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+#carousel{
+    max-height: 500px;
+}
